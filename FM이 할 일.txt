@@ -1,0 +1,11 @@
+1. PM : 팀 프로젝트용 레포지토리 필요
+https://github.com/MJ-hong0372?tab=repositories
+새 이름으로 생성
+
+
+2. PM : 로컬 컴퓨터에 팀 프로젝트에 기준이 될 폴더 및 파일 생성 > 커밋 & 푸쉬 
+
+3. PM :
+- 로컬 컴퓨터 staging area 존재 (*git init)
+- staging area & 레포지토리의 연결 
+(*git remote add origin 레포지토리 주소)
